@@ -1,0 +1,4 @@
+database:
+  url: jdbc:mysql://washmore.tech:3306/zhuqing_demo?useunicode=true&characterEncoding=utf8
+  username: zhuqing
+  password: XAckh4SdTaJmEhss
